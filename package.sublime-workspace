@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"res"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"urlenco",
+				"urlencoded"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"bo",
+				"bodyParser\t(?)"
+			],
+			[
+				"po",
+				"POSTING"
+			],
+			[
+				"p",
+				"post\t(?)"
+			],
+			[
+				"app",
+				"apply\tmethod.apply()"
+			],
+			[
+				"stringi",
+				"querystring.stringify"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ur",
+				"urlEncode"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"e",
+				"emit"
+			],
+			[
+				"so",
+				"sockets"
+			],
+			[
+				"i",
+				"indexOf"
+			],
+			[
+				"a",
+				"array_user"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"t",
+				"tabTrigger"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"f",
+				"func"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"q",
+				"query_insert"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"arr",
+				"arr_student"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"j",
+				"json_decode"
+			],
+			[
+				"jso",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"last_filter": "remo",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"u",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"nodejs",
+				"Nodejs::Build Completions"
+			],
+			[
+				"unin",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				" node",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Snip",
+				"Snippet: Get Elements"
+			],
+			[
+				"set Syntax: ja",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/PNA/Desktop/sublime text/nodejs firebase/firebase.json",
+		"/C/Users/PNA/Desktop/sublime text/js-upload/views/form.ejs",
+		"/C/Users/PNA/Desktop/sublime text/js-express-postresql/index.js",
+		"/C/Users/PNA/Desktop/sublime text/js-upload/index.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs firebase/database.rules.json",
+		"/C/Users/PNA/Desktop/sublime text/nodejs firebase/xyx.json",
+		"/F/AndroidStudioProjects/FirebaseRealtime/app/build/outputs/apk/debug/output.json",
+		"/C/Users/PNA/AppData/Roaming/npm/node_modules/firebase/auth/index.js",
+		"/C/Users/PNA/Desktop/package-lock.json",
+		"/C/Users/PNA/AppData/Roaming/npm/node_modules/firebase/firebase.js",
+		"/C/Users/PNA/Desktop/googe services/google-services.json",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/demo/function.js",
+		"/C/Users/PNA/Desktop/sublime text/android/server/index.js",
+		"/C/Users/PNA/Desktop/sublime text/js-express-postresql/views/web.ejs",
+		"/C/Users/PNA/Desktop/sublime text/js-express-postresql/views/params.ejs",
+		"/C/Users/PNA/Desktop/sublime text/js-express-postresql/package.json",
+		"/C/Users/PNA/AppData/Roaming/Sublime Text 3/Packages/User/TernJS.sublime-settings",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server2/json.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/demo/webserver01.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server_express/app.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server2/handle.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/test/test.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/test/test2.js",
+		"/C/Users/PNA/Desktop/getdata1.php",
+		"/C/xampp/htdocs/androidwebservices/getdata.php",
+		"/C/xampp/htdocs/androidwebservices/getdata1.php",
+		"/C/Users/PNA/Desktop/getdata.php",
+		"/C/Users/PNA/Desktop/sublime text/android/server/package.json",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/demo/buffer.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/demo/oop.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/demo/app.js",
+		"/C/Users/PNA/AppData/Roaming/Sublime Text 3/Packages/User/mysnippet.sublime-snippet",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/test/package.json",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/test/package.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/test/express.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server_express/node_modules/express/index.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server_express/node_modules/express/lib/express.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server_express/package.json",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server_express/node_modules/express/package.json",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server_express/package-lock.json",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server_express/express.json",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server_json/express.json",
+		"/C/xampp/htdocs/androidwebservices/demo.php",
+		"/C/xampp/htdocs/androidwebservices/test.php",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server_01/app.js",
+		"/C/Users/PNA/Desktop/sublime text/nodejs/server.js",
+		"/C/xampp/htdocs/androidwebservices/dpcon.php",
+		"/C/xampp/htdocs/androidwebservices/delete.php",
+		"/C/xampp/htdocs/androidwebservices/update.php",
+		"/C/xampp/htdocs/androidwebservices/insert.php",
+		"/C/Users/PNA/Desktop/sublime text/ex.py",
+		"/C/Users/PNA/Desktop/sublime text/demo.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 71.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
